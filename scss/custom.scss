@@ -1,0 +1,9 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/_functions";
+@import "../node_modules/bootstrap/scss/bootstrap-utilities.scss";
+ $primary:rgb(184, 184, 185);
+$theme-colors:(
+    "primary":$primary
+);
